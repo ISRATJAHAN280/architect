@@ -237,3 +237,12 @@ font-weight: 400;
         mix-blend-mode: luminosity;
 
     }
+    .footer{
+        padding: 20px;
+     margin: auto;
+     width: 60%;
+     background-color: #FF900E;
+     color: #131313;
+     margin-top:20px ;
+     text-align: center;
+    }
